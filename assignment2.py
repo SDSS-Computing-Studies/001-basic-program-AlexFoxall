@@ -1,3 +1,3 @@
 #! python3
 
-print("This is my first sentence.\n This is my second sentence.")
+print("This is my first sentence.\nThis is my second sentence.")
